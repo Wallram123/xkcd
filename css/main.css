@@ -1,0 +1,19 @@
+body {background-color: #7288b5;}
+
+
+
+
+.csssak {
+    
+    background-color: lightgrey;
+    width: 60%;
+    height: 100%;
+    border: 2px solid black;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
+    
+  }
+
+  img {width: 100%;}
